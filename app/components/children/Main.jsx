@@ -74,9 +74,10 @@ var Main = React.createClass({
       <div className="container" style={ {backgroundColor: "white", borderStyle: "solid", borderWidth: "1px"} }>
 
         <div className="page-header">
-          <h1 className="text-center"><img style={ {width: "70%"} } src="img/nyt-header.svg" alt="The New York Times"/></h1>
-          <h2 className="text-center" style={ {marginTop: "-12px"} }><b><i>A React Rendition</i></b></h2>
-          <h4 className="text-center">Search for and annotate articles of interest. Click on headlines to learn more.</h4>
+        <h1 className="text-center"><img style={ {width: "70%"} } src="img/nyt-header.svg" alt="The New York Times"/></h1>
+          {/* <h1 className="text-center"><img style={ {width: "70%"} }><b>The New York Times</b></h1> */}
+          <h2 className="text-center" style={ {marginTop: "-12px"} }><b><i>A "React"-ive Experience</i></b></h2>
+          <h4 className="text-center">Search for and save articles of interest. Click on headlines to learn more.</h4>
         </div>
 
         <Query _setSearchFeilds={this._setSearchFeilds} />

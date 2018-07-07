@@ -12,12 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/tomtom28/nyt-react.git"
   },
-  "author": "tomtom28",
+  "author": "Jason O'Higgins",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomtom28/nyt-react/issues"
+    "url": "https://github.com/JasonOHiggins/NYT_React_version"
   },
-  "homepage": "https://github.com/tomtom28/nyt-react#readme",
+  "homepage": "https://github.com/JasonOHiggins/NYT_React_version",
   "dependencies": {
     "axios": "^0.15.3",
     "body-parser": "^1.15.2",

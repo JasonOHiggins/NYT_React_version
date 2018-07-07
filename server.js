@@ -1,6 +1,6 @@
-// @author: Thomas Thompson
-// @github: tomtom28
-// @comment: HW for Week 19 - NY Time Article Search with ReactJS! Whoo!
+// @author: Jason O'Higgins
+// @github: JasonOHiggins
+// @comment: Homework - NY Time Article Search with ReactJS! Whoo!
 
 
 // Require Node Modules
