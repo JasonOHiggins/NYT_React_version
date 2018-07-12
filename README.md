@@ -11,6 +11,5 @@ On the backend, the app uses `express` to serve routes and `mongoose` to interac
 
 On the frontend, the app uses `ReactJS` for rendering components, `axios` for internal/external API calls, and `bootstrap` as a styling framework.
 
-In order to transpile the JSX code, `webpack` and `babel` were utilized. All of the JSX  code in the `/app` folder was transpiled into the `bundle.js` file located in the `/public` folder.
 
 
